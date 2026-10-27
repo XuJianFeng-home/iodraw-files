@@ -42,13 +42,14 @@
         <mxCell id="sbPPfy_9JbuCV4PuTc_d-9" value="Multi-positive ContrastiveLoss" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="180" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sbPPfy_9JbuCV4PuTc_d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sbPPfy_9JbuCV4PuTc_d-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="315" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="sbPPfy_9JbuCV4PuTc_d-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sbPPfy_9JbuCV4PuTc_d-10" target="sbPPfy_9JbuCV4PuTc_d-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sbPPfy_9JbuCV4PuTc_d-10" value="Motion Description of SCHOOL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sbPPfy_9JbuCV4PuTc_d-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Multi-positive ContrastiveLoss&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sbPPfy_9JbuCV4PuTc_d-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="285" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
