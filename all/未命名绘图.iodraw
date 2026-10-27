@@ -53,10 +53,7 @@
         <mxCell id="sbPPfy_9JbuCV4PuTc_d-13" value="&#xa;Update Skeleton Encoder&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sbPPfy_9JbuCV4PuTc_d-16" value="Classification Loss" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="410" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sbPPfy_9JbuCV4PuTc_d-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;Multi-positive ContrastiveLoss&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sbPPfy_9JbuCV4PuTc_d-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;Classification Loss&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="430" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
