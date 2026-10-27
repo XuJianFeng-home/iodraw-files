@@ -16,8 +16,8 @@
         <mxCell id="o64X_71tzSW3oYssDZCx-0" value="Hand position · Finger angles · Trajectory · Speed feature extraction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="120" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o64X_71tzSW3oYssDZCx-3" value="&lt;span style=&quot;white-space: normal;&quot;&gt;Skeleton[T, J, 3]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="30" width="110" height="30" as="geometry" />
+        <mxCell id="o64X_71tzSW3oYssDZCx-3" value="&lt;span style=&quot;white-space: normal;&quot;&gt;Skeleton&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;[T, J, 3]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="10" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
