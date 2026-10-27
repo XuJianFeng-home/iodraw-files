@@ -100,6 +100,9 @@
         <mxCell id="sbPPfy_9JbuCV4PuTc_d-33" value="result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="758" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sbPPfy_9JbuCV4PuTc_d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sbPPfy_9JbuCV4PuTc_d-13" target="sbPPfy_9JbuCV4PuTc_d-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
