@@ -65,14 +65,11 @@
         <mxCell id="sbPPfy_9JbuCV4PuTc_d-19" value="Skeleton &lt;br&gt;Encoder&lt;div&gt;R（60×87×3）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="135" y="603" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sbPPfy_9JbuCV4PuTc_d-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sbPPfy_9JbuCV4PuTc_d-20" target="sbPPfy_9JbuCV4PuTc_d-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sbPPfy_9JbuCV4PuTc_d-20" value="CTR-GCN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="603" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sbPPfy_9JbuCV4PuTc_d-22" value="&#xa;&lt;span&gt;Skeleton &lt;/span&gt;&lt;span&gt;Features&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="603" width="120" height="60" as="geometry" />
+        <mxCell id="sbPPfy_9JbuCV4PuTc_d-24" value="&lt;span&gt;Skeleton &lt;/span&gt;&lt;span&gt;Features&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
