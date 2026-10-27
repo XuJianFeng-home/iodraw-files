@@ -10,7 +10,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;feature extraction&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;Hand position · Finger angles · Trajectory · Speed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Motion Event Detection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o64X_71tzSW3oYssDZCx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="o64X_71tzSW3oYssDZCx-3" target="WIyWlLk6GJQsqaUBKTNV-3">
